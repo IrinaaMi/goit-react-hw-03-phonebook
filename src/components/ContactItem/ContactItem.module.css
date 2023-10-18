@@ -1,0 +1,9 @@
+ .contactItem {
+     display: flex;
+     align-items: center;
+ }
+ 
+ .button {
+     border-radius: 10px;
+     margin-left: 5px;
+ }
